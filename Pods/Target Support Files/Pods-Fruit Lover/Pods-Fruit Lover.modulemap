@@ -1,0 +1,6 @@
+framework module Pods_Fruit_Lover {
+  umbrella header "Pods-Fruit Lover-umbrella.h"
+
+  export *
+  module * { export * }
+}
